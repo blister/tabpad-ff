@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "TabPad",
 	"description": "A Mozilla Firefox extension to provide a 'scratchpad' for notes on the 'New Tab' page.",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"homepage_url": "https://github.com/blister/tabpad-ff",
 	"browser_action": {
 		"default_icon": "/icons/tabpad-48.png",
